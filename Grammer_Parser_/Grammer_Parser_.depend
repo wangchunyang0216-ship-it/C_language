@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1703206555 source:c:\users\29034\desktop\c_language\grammer_parser_\action_goto.cpp
+	"Grammer.h"
+
+1703206557 c:\users\29034\desktop\c_language\grammer_parser_\grammer.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1703206546 source:c:\users\29034\desktop\c_language\grammer_parser_\closure.cpp
+	"Grammer.h"
+
+1703206536 source:c:\users\29034\desktop\c_language\grammer_parser_\first.cpp
+	"Grammer.h"
+
+1703206525 source:c:\users\29034\desktop\c_language\grammer_parser_\grammer.cpp
+	"Grammer.h"
+
+1703206490 source:c:\users\29034\desktop\c_language\grammer_parser_\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Lexical.h"
+	"Grammer.h"
+
+1703206557 c:\users\29034\desktop\c_language\grammer_parser_\lexical.h
+
+1703206471 source:c:\users\29034\desktop\c_language\grammer_parser_\projects.cpp
+	"Grammer.h"
+
+1703206461 source:c:\users\29034\desktop\c_language\grammer_parser_\stack.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<iomanip>
+	"Grammer.h"
+	<iomanip>
+	<sstream>
+
+1703206708 source:c:\users\29034\desktop\c_language\grammer_parser_\lexical.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	"Lexical.h"
+

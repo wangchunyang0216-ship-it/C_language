@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1703128310 source:c:\users\29034\desktop\c_language\grammer_parser\action_goto.cpp
+	"grammar.h"
+
+1703122253 c:\users\29034\desktop\c_language\grammer_parser\grammar.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1703067115 source:c:\users\29034\desktop\c_language\grammer_parser\closure.cpp
+	"grammar.h"
+
+1703079053 source:c:\users\29034\desktop\c_language\grammer_parser\getfirst.cpp
+	"grammar.h"
+
+1703160191 source:c:\users\29034\desktop\c_language\grammer_parser\grammar.cpp
+	"grammar.h"
+
+1703123697 source:c:\users\29034\desktop\c_language\grammer_parser\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"morphology.h"
+	"grammar.h"
+
+1703067158 c:\users\29034\desktop\c_language\grammer_parser\morphology.h
+
+1703214940 source:c:\users\29034\desktop\c_language\grammer_parser\morphology.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	"morphology.h"
+
+1703067161 source:c:\users\29034\desktop\c_language\grammer_parser\projects.cpp
+	"grammar.h"
+
+1703159343 source:c:\users\29034\desktop\c_language\grammer_parser\stack.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<iomanip>
+	"grammar.h"
+	<iomanip>
+	<sstream>
+
+1704359685 source:c:\users\29034\desktop\c_language\grammer_parser\optimize.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<iomanip>
+	"morphology.h"
+	"grammar.h"
+	"semantic.h"
+	"optimize.h"
+
+1704359690 c:\users\29034\desktop\c_language\grammer_parser\semantic.h
+
+1704359690 c:\users\29034\desktop\c_language\grammer_parser\optimize.h
+
+1704359687 source:c:\users\29034\desktop\c_language\grammer_parser\semantic.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<iomanip>
+	"morphology.h"
+	"grammar.h"
+	"semantic.h"
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1684056322 source:c:\users\29034\desktop\c_language\branch-and-bound_zhipai\main.cpp
+	<iostream>
+	<queue>
+	<string.h>
+	<cstring>
+

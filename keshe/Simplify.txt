@@ -1,0 +1,85 @@
+运算符:
+== = < = + == = + = + 
+
+常量:
+0 10 1 5 1 1 
+
+分界符:
+( ) { , , , ; ( ) { ( ; ; ) { ( ) { ; } } } { ; } } 
+
+标识符:
+m n i j m n m m m m n j j i i 
+
+保留字:
+void main int if for if else 
+
+测试代码:
+void main ( ) { int m , n , i , j ; if ( m == n ) { for ( m = 0 ; m < 10 ; m = m + 1 ) { if ( n == 5 ) { j = j + 1 ; } } } else { i = i + 1 ; } } 
+
+简化后的代码:
+v m ( ) { n i , i , i , i ; f ( i c i ) { r ( i = d ; i < d ; i = i + d ) { f ( i c d ) { i = i + d ; } } } e { i = i + d ; } } 
+
+word:void  	简化后的字符是:v
+word:main  	简化后的字符是:m
+word:(  	简化后的字符是:(
+word:)  	简化后的字符是:)
+word:{  	简化后的字符是:{
+word:int  	简化后的字符是:n
+word:m  	简化后的字符是:i
+word:,  	简化后的字符是:,
+word:n  	简化后的字符是:i
+word:,  	简化后的字符是:,
+word:i  	简化后的字符是:i
+word:,  	简化后的字符是:,
+word:j  	简化后的字符是:i
+word:;  	简化后的字符是:;
+word:if  	简化后的字符是:f
+word:(  	简化后的字符是:(
+word:m  	简化后的字符是:i
+word:==  	简化后的字符是:c
+word:n  	简化后的字符是:i
+word:)  	简化后的字符是:)
+word:{  	简化后的字符是:{
+word:for  	简化后的字符是:r
+word:(  	简化后的字符是:(
+word:m  	简化后的字符是:i
+word:=  	简化后的字符是:=
+word:0  	简化后的字符是:d
+word:;  	简化后的字符是:;
+word:m  	简化后的字符是:i
+word:<  	简化后的字符是:<
+word:10  	简化后的字符是:d
+word:;  	简化后的字符是:;
+word:m  	简化后的字符是:i
+word:=  	简化后的字符是:=
+word:m  	简化后的字符是:i
+word:+  	简化后的字符是:+
+word:1  	简化后的字符是:d
+word:)  	简化后的字符是:)
+word:{  	简化后的字符是:{
+word:if  	简化后的字符是:f
+word:(  	简化后的字符是:(
+word:n  	简化后的字符是:i
+word:==  	简化后的字符是:c
+word:5  	简化后的字符是:d
+word:)  	简化后的字符是:)
+word:{  	简化后的字符是:{
+word:j  	简化后的字符是:i
+word:=  	简化后的字符是:=
+word:j  	简化后的字符是:i
+word:+  	简化后的字符是:+
+word:1  	简化后的字符是:d
+word:;  	简化后的字符是:;
+word:}  	简化后的字符是:}
+word:}  	简化后的字符是:}
+word:}  	简化后的字符是:}
+word:else  	简化后的字符是:e
+word:{  	简化后的字符是:{
+word:i  	简化后的字符是:i
+word:=  	简化后的字符是:=
+word:i  	简化后的字符是:i
+word:+  	简化后的字符是:+
+word:1  	简化后的字符是:d
+word:;  	简化后的字符是:;
+word:}  	简化后的字符是:}
+word:}  	简化后的字符是:}

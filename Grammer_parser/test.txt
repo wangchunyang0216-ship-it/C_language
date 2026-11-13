@@ -1,0 +1,18 @@
+void main()
+{
+	int m,n,i,j;
+	if(m==n)
+	{
+		for(m=0;m<10;m=m+1)
+		{
+			if(n==5)
+			{
+				j=j+1;
+			}
+		}
+	}
+	else
+	{
+		i=i+1;
+	}	
+}

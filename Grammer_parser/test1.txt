@@ -1,0 +1,17 @@
+void main( ){
+	int i; 
+	for(i=100;i>=0;i--)
+	{
+		int k,j,sum;
+		k=1+5;
+		j=5*9;
+		num=k+j;
+
+	}
+	if(z==8){
+		int x;
+		x=x-1;
+	}
+	
+	
+}

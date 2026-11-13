@@ -1,0 +1,14 @@
+void main()
+{
+	int x,y;
+	if(y==6){
+while(x<y){
+		x=x+1;
+	}
+}
+else{
+z=7;}
+	int b;
+	a=5+6;	
+
+}

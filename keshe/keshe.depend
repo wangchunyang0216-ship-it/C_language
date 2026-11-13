@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1704443643 source:c:\users\29034\desktop\c_language\keshe\action_goto.cpp
+	"keshe.h"
+	"stack.h"
+
+1704361138 c:\users\29034\desktop\c_language\keshe\morphology.h
+
+1704361138 c:\users\29034\desktop\c_language\keshe\grammar.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1704429703 c:\users\29034\desktop\c_language\keshe\semantic.h
+
+1704438787 source:c:\users\29034\desktop\c_language\keshe\closure.cpp
+	"keshe.h"
+	"stack.h"
+
+1704438787 source:c:\users\29034\desktop\c_language\keshe\getfirst.cpp
+	"keshe.h"
+	"stack.h"
+
+1704469369 source:c:\users\29034\desktop\c_language\keshe\grammar.cpp
+	"keshe.h"
+	"stack.h"
+
+1704894568 source:c:\users\29034\desktop\c_language\keshe\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"keshe.h"
+	"stack.h"
+	"optimize.h"
+
+1704894417 c:\users\29034\desktop\c_language\keshe\optimize.h
+
+1704898611 source:c:\users\29034\desktop\c_language\keshe\morphology.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	"keshe.h"
+	"stack.h"
+
+1704894948 source:c:\users\29034\desktop\c_language\keshe\optimize.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<iomanip>
+	"keshe.h"
+	"stack.h"
+	"optimize.h"
+
+1704438791 source:c:\users\29034\desktop\c_language\keshe\projects.cpp
+	"keshe.h"
+	"stack.h"
+
+1704891556 source:c:\users\29034\desktop\c_language\keshe\semantic.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<iomanip>
+	"keshe.h"
+	"stack.h"
+
+1704446165 source:c:\users\29034\desktop\c_language\keshe\stack.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<iomanip>
+	"keshe.h"
+	"stack.h"
+	<iomanip>
+	<sstream>
+
+1704891817 c:\users\29034\desktop\c_language\keshe\keshe.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1704446192 c:\users\29034\desktop\c_language\keshe\stack.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<iomanip>
+	<fstream>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1684227630 source:c:\users\29034\desktop\c_language\tsp_ga\main.cpp
+	<iostream>
+	<stdio.h>
+

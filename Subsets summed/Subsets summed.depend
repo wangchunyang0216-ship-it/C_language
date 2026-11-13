@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1684241499 source:c:\users\29034\desktop\c_language\subsets summed\main.c
+	<stdio.h>
+	<stdlib.h>
+

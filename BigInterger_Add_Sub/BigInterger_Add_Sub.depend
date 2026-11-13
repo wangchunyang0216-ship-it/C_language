@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680790327 source:c:\users\29034\desktop\c_language\biginterger_add_sub\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

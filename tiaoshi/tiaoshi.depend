@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1686644845 source:c:\users\29034\desktop\c_language\tiaoshi\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cmath>
+	<algorithm>
+

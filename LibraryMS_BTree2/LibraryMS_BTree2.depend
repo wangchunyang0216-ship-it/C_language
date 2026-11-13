@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1686905124 source:c:\users\29034\desktop\c_language\libraryms_btree2\btreebook.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"BTreeBook.h"
+	<iostream>
+
+1686889803 c:\users\29034\desktop\c_language\libraryms_btree2\btreebook.h
+	<iostream>
+
+1686905124 source:c:\users\29034\desktop\c_language\libraryms_btree2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"BTreeBook.h"
+

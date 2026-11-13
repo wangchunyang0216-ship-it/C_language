@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1686663833 source:c:\users\29034\desktop\c_language\libraryms_bree\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstring>
+	<cmath>
+	<algorithm>
+
